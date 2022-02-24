@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter written by the French king to the Cardinall Richieleu occasioned upon a letter ... from Pope Vrban the 8, intimating the miserable condition the Catholicks (both in England and Ireland) are like to come into, and upon some late proceedings of the Parliament in England : commanding the said cardinall to hold and observe the like strict hand towards the Hugonets, or Protestants, in France : whereunto is added the Cardinals answer to His Majesty and expression of his zeale in the observation of his commands therin / faithfully translated out of the French copy.</title>
+            <author>Louis XIII, King of France, 1601-1643.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49200</idno>
+            <idno type="STC">Wing L3097</idno>
+            <idno type="STC">ESTC R4869</idno>
+            <idno type="EEBO-CITATION">12981757</idno>
+            <idno type="OCLC">ocm 12981757</idno>
+            <idno type="VID">96170</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49200)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96170)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 389:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter written by the French king to the Cardinall Richieleu occasioned upon a letter ... from Pope Vrban the 8, intimating the miserable condition the Catholicks (both in England and Ireland) are like to come into, and upon some late proceedings of the Parliament in England : commanding the said cardinall to hold and observe the like strict hand towards the Hugonets, or Protestants, in France : whereunto is added the Cardinals answer to His Majesty and expression of his zeale in the observation of his commands therin / faithfully translated out of the French copy.</title>
+                  <author>Louis XIII, King of France, 1601-1643.</author>
+                  <author>Richelieu, Armand Jean du Plessis, duc de, 1585-1642.</author>
+                  <author>Catholic Church. Pope (1623-1644 : Urban VIII)</author>
+               </titleStmt>
+               <extent>[2], 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nath. Butter,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>March 18, 1642.</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Huguenots --  France.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96170:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 22 -->
+            <p>A LETTER WRITTEN By the <hi>FRENCH</hi> KING, to the Cardinall <hi>Richieleu,</hi> occaſioned upon a Letter, dated <hi>Ian.</hi> the 28. being ſent him from Pope <hi>Vrban</hi> the 8. intimating the miſerable condition the Catholicks (both in <hi>England</hi> and <hi>Ireland</hi>) are like to come into, and upon ſome late procee<g ref="char:EOLhyphen"/>dings of the Parliament in <hi>England.</hi>
+            </p>
+            <p>Commanding the ſaid Cardinall to hold, and obſerve the like ſtrict hand towards the <hi>Hugonets,</hi> or Proteſtants, in <hi>France.</hi>
+            </p>
+            <p>
+               <hi>Whereunto is added the Cardinals anſwer to his Majeſty, and expreſsion of his Zeale in the obſervation of His commands therein.</hi>
+            </p>
+            <p>Faithfully tranſlated out of the French Copy.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Nath: Butter, March,</hi> 18. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div n="Louis XIII to Cardinal-Duc de Richelieu" type="copy_of_letter">
+            <pb facs="tcp:96170:2"/>
+            <!-- PDF PAGE 23 -->
+            <pb n="1" facs="tcp:96170:2"/>
+            <!-- PDF PAGE 23 -->
+            <head>A Copie of a Letter, written by the King of <hi>France,</hi> unto Cardinall <hi>Richellieu,</hi> Feb. 19 new ſtile, wherein he requireth him to conſider the contents of the Let<g ref="char:EOLhyphen"/>ter ſent him unto St. <hi>Vincent,</hi> by Pope <hi>Vr<g ref="char:EOLhyphen"/>ban,</hi> Ian. 28. 1642. And to give order there<g ref="char:EOLhyphen"/>in, according unto the concernment.</head>
+            <opener>
+               <salute>Right truſty, and well beloved Couzin, and Counſellour, Wee greet you well:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Ee having received, <hi>Feb.</hi> 19. from our holy Father, and Vncle Pope <hi>Vrban</hi> the eight, by the hand of <hi>Iacob,</hi> by Gods providence, Biſhop of <hi>Saler<g ref="char:EOLhyphen"/>no:</hi> his holineſs's <hi>Nuncio</hi> Letters, fa<g ref="char:EOLhyphen"/>therly adviſing us in matters at this time, highly concerning us, &amp; the flouriſhing proſperity of this our Monarchy: deeply weighing how nearly it concernes us, who have wars abroad to provide for; and maintaine peace, and unity at home: and that the greateſt turmoile, and diſcords that ever aroſe in our Realme, was occaſioned, ſtirred up, and maintained by thoſe of the Religion, pre<g ref="char:EOLhyphen"/>tended
+<pb n="2" facs="tcp:96170:3"/>
+               <!-- PDF PAGE 24 -->
+reformed, uſually called Hugonets: not content to mutinie themſelves, (notwithſtand<g ref="char:EOLhyphen"/>ing al our gracious meſſages and replies unto them: granting them more then any of our Royall Pre<g ref="char:EOLhyphen"/>deceſſors ever yeelded unto: (but called and ob<g ref="char:EOLhyphen"/>tained the actuall aid of our deareſt brother of great Brittaine againſt us: thereby as much as in them lay, labouring the utter diſſolution of our long ratified league, and amity: and in liew there<g ref="char:EOLhyphen"/>of to bring in, and cheriſh an irreconciliable hate and diſcord, betweene us and our dominions: not yet forgetting the both coſt and labour, lives and limbs, the reducing of that ſtrong Towne, and Cittadell of <hi>Rochell</hi> ſtood us in, before we could have our dues from them; and their duties to us, and our Crowne acknowledged: and that which is not the leaſt of the reſt, being certified by our Chamber accounts of <hi>Paris,</hi> as they, from the ſe<g ref="char:EOLhyphen"/>verall Out-lookers, and Surveyors of Pariſhes, throughout our whole Realme; how that ſect not onely encreaſeth, but ſwarmes, ſo that it is greatly to be ſuſpected, that (if not their Forts and Caſtles) yet their number will ſhortly become formidable: in no wiſe over ſlipping the miſ-dea<g ref="char:EOLhyphen"/>meanour, and out-rages there have lately beene committed in <hi>England;</hi> to the great diſcontent, and dammage of our deareſt brother, as we have beene not long ſince to our great griefe informed: albeit his Royall ſelfe, a Profeſſor, and maintainer of the ſame Religion with them.</p>
+            <p>We juſtly fearing (as his holineſſe provident<g ref="char:EOLhyphen"/>ly foreſeeth, that had they the ſame power in our
+<pb n="3" facs="tcp:96170:3"/>
+               <!-- PDF PAGE 24 -->
+Kingdome, we ſhould undoubtedly be ſenſible of the ſame inconveniencie: by reaſon, that that ſect in its very principall, is a Shaker off, and Deſpiſer of all Monarchicall government) doe charge and require you with all diligence poſſible, as to your wonted approved wiſedome, you ſhall thinke fit<g ref="char:EOLhyphen"/>ting, (wee leaving the ordering, remedying, and redreſſing of this ſo weighty affaire, wholly unto your tryed, and experienced ableneſſe therein, as you will anſwer the contrary unto his holineſſe, as touching obedience, and us in dutie: to put your beſt endeavours in hand, for the full and plenary ſatisfaction of his Holineſſe and Us, as touching all, and every particulars in the ſaid Letter con<g ref="char:EOLhyphen"/>tained: wee have likewiſe given in charge unto Sir <hi>de Boies,</hi> the Bearer hereof, moſt ſpeciall command, farther to acquaint you with our plea<g ref="char:EOLhyphen"/>ſure in this kind.</p>
+            <closer>
+               <dateline>Given at our Palace of the Caſtle, Saint <hi>Vincent,</hi> 
+                  <date>of this preſent <hi>Feb.</hi> 23. <hi>anno Dom.</hi> 1641. And King of <hi>France,</hi> and <hi>Navarre,</hi> 40.</date>
+               </dateline>
+               <signed>Signed <hi>LEWIS,</hi>
+               </signed> 
+               <signed>And under <hi>De LANTON.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div n="Cardinal-Duc de Richelieu to Louis XIII" type="letter">
+            <pb n="4" facs="tcp:96170:4"/>
+            <!-- PDF PAGE 25 -->
+            <head>Cardinall <hi>Rechillieu's</hi> Letter unto the King of <hi>France,</hi> Feb. <hi>22.</hi> wherein he intimateth unto his Majeſty, the great care he hath taken in fulfilling the charge, by the ſame Kings Letter, laid upon him, <hi>Feb. 19.</hi> about the Popes Letter, written unto the French King, from <hi>Rome, Ian. 28. 1641.</hi>
+            </head>
+            <opener>
+               <salute>Moſt Chriſtian Sir,</salute>
+            </opener>
+            <p>VVEe have moſt ſeriouſly weighed, the contents of the Letter brought to us from your Majeſty, by Lord <hi>du Bois,</hi> Maſter of your Majeſties Ceremonies, bearing date the nineteenth of this preſent moneth of <hi>Feb.</hi> having thought deeply there upon, with the reſt of your Majeſties Counſell, Preſidents of Eſtate and Parliament, as the importance of the matter, our bounden du<g ref="char:EOLhyphen"/>ty toward your Majeſtie, right humble and fe<g ref="char:EOLhyphen"/>liall obedience on his Holineſſe his behalfe, duty and conſcience toward the Roman Catholike Religion, doe all ſeverally and reſpectively com<g ref="char:EOLhyphen"/>mand and require: And firſt your Majeſty hath good reaſon, and therein obliged: to give thanks and acknowledgement unto his Holineſſe; for the care he hath of the durancy, and perpetuity of the now flouriſhing State of your Majeſties Crowne, giving unto your Majeſty very ſeaſonable war<g ref="char:EOLhyphen"/>ning of fore-ſeeing, and preventing the evils that may any way endanger it: amongſt which (we all here reſiding for the ſervice of your Majeſty, in all things whatſoever, and principally about this now in hand: doe advertiſe your Majeſty, that it is a miſchiefe, the remedy of which is not to bee
+<pb n="5" facs="tcp:96170:4"/>
+               <!-- PDF PAGE 25 -->
+any while deferred: for the <hi>Hugonets</hi> in number in<g ref="char:EOLhyphen"/>creaſe, and ſwell mightily in <hi>France,</hi> thorow all quarters and territories; yea, we are given to un<g ref="char:EOLhyphen"/>derſtand, that in ſome places they are become ſo impudent, that they oppoſe, and mock you Ca<g ref="char:EOLhyphen"/>tholicke ſubjects, as they come from our God un<g ref="char:EOLhyphen"/>to the holy Maſſe: which is more, <hi>Boyaux</hi> our Se<g ref="char:EOLhyphen"/>cretary hath avowed unto us, that a Gentleman of <hi>Deepe</hi> an <hi>Hugonet,</hi> ſtucke not to ſay (in re<g ref="char:EOLhyphen"/>proaching him) that he ſhould ſee ſhortly, that the Proteſtants (as hee termed them) would make proofe of force enough, not only to defend them<g ref="char:EOLhyphen"/>ſelves, but (may be) to offend their adverſaries: which hee ſpake openly in a Taverne, and (wee pray God) without ground: we are all aſſured, that the conjunction of your Majeſties moſt Roy<g ref="char:EOLhyphen"/>all ſiſter in marriage, with the King of great <hi>Brit<g ref="char:EOLhyphen"/>taine,</hi> being a Prince profeſſing the ſame Religion, (although il rewarded of it) and the promiſe your Majeſty made unto his Embaſſadour, of gentle uſe of them, during their loyall deportment: and his Majeſties like uſage of thoſe of yours in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> hath beene the cauſe that your Majeſty hath ſhewed ſuch clemency, that we may not ſay licen<g ref="char:EOLhyphen"/>tious liberty unto them, againſt your Majeſties owne intereſt and profit, that we may not ſay, con<g ref="char:EOLhyphen"/>ſcience, and otherwiſe obligements: but ſeeing that this obligation is fruſtrate, and broken on their part: and that your Majeſty is ſo aſſuredly cer<g ref="char:EOLhyphen"/>tified by meſſengers, the verity of whoſe report we no wayes doubt, how great miſeries the Ca<g ref="char:EOLhyphen"/>tholicks there abiding, ſince the holding there of
+<pb n="4" facs="tcp:96170:5"/>
+               <!-- PDF PAGE 26 -->
+their Parliament, are put unto; not only in re<g ref="char:EOLhyphen"/>ſpect of eſtates and honours, but of freedome and life: how unworthily your own moſt Royal ſiſters Subjects, (knowing that her reproach doth ſome way glance upon your Majeſtie) we aſſure your Majeſtie, and declare unto all the world, that your Majeſtie is acquitted, and diſcharged of all obli<g ref="char:EOLhyphen"/>gation, or promiſe whatſoever made in that kind, ſeeing that his Majeſtie of great <hi>Brittaine,</hi> either cannot, or will not keepe and obſerve his: All which conſidered, that which your Majeſtie is ſpeedily to reſolve upon, is this: Your Majeſtie muſt forthwith publiſh an abſolute, and peremp<g ref="char:EOLhyphen"/>tory Edict, declaring what courſe your Majeſtie is pleaſed, and reſolved to take with theſe Hugo<g ref="char:EOLhyphen"/>nets: ſtraitly charging therein, all your officers, of what quality, degree, condition, place, or autho<g ref="char:EOLhyphen"/>rity ſoever, where theſe Hugonets inhabit, upon paine of loſſe of office, fine, and impriſonment, and farther ſharper proceeding, if your Majeſtie ſhall ſee juſt cauſe to accompliſh, and put in ſtricteſt execution, without any reſpect, or favour whatſo<g ref="char:EOLhyphen"/>ever, all and every the particular clauſes, as touch<g ref="char:EOLhyphen"/>ing the ſaid Hugonets, that in the fore-rehearſed Edict ſhall be contained; the Copy whereof wee have here ſent unto your Maieſtie, by <hi>Moun<g ref="char:EOLhyphen"/>ſieur du Plaiſir:</hi> one of the Preſidents of Parlia<g ref="char:EOLhyphen"/>ment, to lead, reviſed, amended, enlarged, altered, or preſently ſigned, as it ſhall pleaſe your Ma<g ref="char:EOLhyphen"/>jeſty to write your Royall diſpoſedneſſe, wee re<g ref="char:EOLhyphen"/>mit our ſelves.</p>
+            <closer>
+               <dateline>
+                  <hi>From St. Germia Paris,</hi> 
+                  <date>
+                     <hi>the</hi> 22. <hi>of this preſent.</hi>
+                  </date>
+               </dateline>
+               <signed>Your Majeſties moſt loyall ſub<g ref="char:EOLhyphen"/>ject and ſervant, Sir <hi>Richieleu.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
